@@ -8,7 +8,7 @@
 
 | Feature                                 | Description                                                                                              |
 |:----------------------------------------|:----------------------------------------------------------------------------------------------------------|
-| 🔍 **Crisp Non‑Blurred Scale**           | Scale from **10%** to **10 000%** with no blur—each pixel remains razor-sharp.                            |
+| 🔍 **Crisp Non‑Blurred Scale**           | Scale from **10%** to **10 000%** with no blur, each pixel remains razor-sharp.                            |
 | 🌈 **Opacity & Saturation**              | Live-range sliders (0–100%) let you tweak transparency and color intensity, previewing instantly.         |
 | 👀 **Side‑by‑Side Preview**              | Instantly compare **Original** vs **Modified** in the same view.                                          |
 | 🎨 **Auto Color Palette**                | Extract top 32 colors automatically; click any swatch to copy its HEX code.                               |
@@ -17,7 +17,7 @@
 | 📦 **Multi‑Format Export**               | Download or copy as **PNG**, **WEBP**, **AVIF**, **SVG**, or **Base64**.                                  |
 | 🗂️ **Batch Processing**                  | Process multiple files at once; download a ZIP of your chosen format.                                     |
 | 📝 **File Info & Rename**                | View/edit filename, file size, dimensions, aspect ratio, and see export size estimates before saving.    |
-| 🔗 **Shareable Links**                   | Generate a URL with Base64‑encoded image—shareable without uploads, stored in your browser history.       |
+| 🔗 **Shareable Links**                   | Generate a URL with Base64‑encoded image, shareable without uploads, stored in your browser history.       |
 | 📱 **PWA & Mobile‑Ready**                | Install as a Progressive Web App on desktop or mobile; use **offline** thanks to Service Worker caching.  |
 
 ---
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-> Notice the crisp edges and preserved block shapes in both PNG and SVG—no blur, no distortion.
+> Notice the crisp edges and preserved block shapes in both PNG and SVG, no blur, no distortion.
 >
 > **Art credit:** Original pixel art by [F404X](https://x.com/F404XdoesARTS)
 ---
@@ -60,7 +60,7 @@
 4. **Export**:
    - **Single**: Click **PNG**, **WEBP**, **AVIF**, **SVG**, or **Base64**.
    - **Batch**: Enable **Batch Mode**, add files, pick format, download **ZIP**.
-5. **Share**: Click **Share Link**—a URL with your Base64 image is copied to your clipboard.
+5. **Share**: Click **Share Link**, a URL with your Base64 image is copied to your clipboard.
 
 ---
 
