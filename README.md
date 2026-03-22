@@ -1,7 +1,6 @@
-# MyPixel - Pixel Art Enhancer 🎨
+<h1 align="center">MyPixel - Pixel Art Enhancer</h1>
 
-
-**Your browser, your pixels, perfected.** MyPixel brings pixel art back to life with **crisp scaling**, **real-time color controls**, and **vector exports**—all running **100% client-side**.
+**Your browser, your pixels, perfected.** MyPixel brings pixel art back to life with **crisp scaling**, **real-time color controls**, and **vector exports**, all running **100% client-side**.
 
 ---
 
