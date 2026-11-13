@@ -2,6 +2,8 @@
 
 **Your browser, your pixels, perfected.** MyPixel brings pixel art back to life with **crisp scaling**, **real-time color controls**, and **vector exports**, all running **100% client-side**.
 
+**Live app:** https://mypixel.luizbizzio.com
+
 ---
 
 ## ✨ Feature Highlights ✨

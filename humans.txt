@@ -5,6 +5,6 @@ Location: Netherlands
 Email: contact@luizbizzio.com
 
 /* SITE */
-Last update: 2025-05-15
+Last update: 2026-11-13
 Standards: HTML5, CSS3, Javascript
 Hosting: Cloudflare Pages

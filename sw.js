@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cache-v1';
+const CACHE_NAME = 'mypixel-v1.0.0';
 const urlsToCache = [
   '/',
   '/index.html',
